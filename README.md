@@ -1,7 +1,7 @@
 # MongoConnector.Net
 MongoDB to Elasticsearch 
 
-# Modules
+# Classes
     1. ConnectorApp
         - Init, Run, Exit 
     2. ConnectorIntermediary
